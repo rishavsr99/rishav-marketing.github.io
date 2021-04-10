@@ -3,13 +3,16 @@ html{
 }
 
 .my-h1{
+    font-family: 'poppins' !important;
     font-weight: 700;
     color: #ffffff !important;
     text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    font-size: 6rem !important;
 }
 
 .my-h3{
-    color:white !important;
+    color:gray !important;
+    font-family: 'poppins' !important;
 }
 
 .my-p{
@@ -20,6 +23,7 @@ html{
 
 .paragraphs{
     margin-top: 40px !important;
+    font-family: 'poppins' !important;
 }
 
 .my-span{
@@ -161,7 +165,7 @@ html{
 }
 
 .next-card{
-    height:200px;
+    height:280px;
     width:320px;
     box-shadow: none;
 }
